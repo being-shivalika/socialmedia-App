@@ -51,4 +51,5 @@ Basic UI structure similar to a real social app
 <img width="1920" height="952" alt="Screenshot 2025-12-30 183028" src="https://github.com/user-attachments/assets/84cf8514-cb98-4c27-9758-35436aed902e" />
 
 *Site Preview*
-<a href="socialmedia-app-nu.vercel.app">Social-Media App</a>
+[View Live Deployment](https://socialmedia-p15aicxe0-shivalika-mehras-projects.vercel.app
+)
