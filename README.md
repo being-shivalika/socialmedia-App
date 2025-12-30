@@ -44,7 +44,12 @@ Show like/dislike counts
 Responsive sidebar navigation
 Loading indicators during API calls
 Basic UI structure similar to a real social app
-<img width="1920" height="1032" alt="Screenshot 2025-12-30 182940" src="https://github.com/user-attachments/assets/746b9e3c-dfdd-42e5-92a0-a9563d5815b1" />
-<img width="1920" height="1032" alt="Screenshot 2025-12-30 183106" src="https://github.com/user-attachments/assets/014bf1b7-bed6-42ef-b46f-72c259ed282c" />
-<img width="1920" height="1032" alt="Screenshot 2025-12-30 183028" src="https://github.com/user-attachments/assets/f46c191f-bb38-4238-8c5d-8155ac0fc8ca" />
+
+
+<img width="1920" height="930" alt="Screenshot 2025-12-30 182940" src="https://github.com/user-attachments/assets/e345fb2f-9f38-43f7-9839-44aefe25ec76" />
+<img width="1920" height="921" alt="Screenshot 2025-12-30 183106" src="https://github.com/user-attachments/assets/3282bb68-ac4a-4ea6-944d-ef4042ac497d" />
+<img width="1920" height="952" alt="Screenshot 2025-12-30 183028" src="https://github.com/user-attachments/assets/84cf8514-cb98-4c27-9758-35436aed902e" />
+
+
+
 
