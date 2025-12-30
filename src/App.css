@@ -1,0 +1,35 @@
+.app-container{
+    display: flex;
+}
+
+.content{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+
+.sidebar{
+    min-height: 800px;
+}
+
+.card{
+    margin: 20px 60px;
+    align-items: center;
+
+}
+
+.btn-tag{
+    margin: 5px 5px;
+    align-items: center;
+}
+
+.createPost{
+    width: 80%;
+    margin-left: 10%;
+    margin-top: 50px;
+}
+
+.welcomeMsg{
+    margin: 100px 0;
+}
